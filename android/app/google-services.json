@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "377603595102",
+    "project_id": "hapag-kc1x8w",
+    "storage_bucket": "hapag-kc1x8w.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377603595102:android:704f727006a47a39550dcf",
+        "android_client_info": {
+          "package_name": "com.matiningmarkjohn.hapaghub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "377603595102-9asa76rnslg6cqmsnlfk8rahm77o3vtp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.matiningmarkjohn.hapaghub",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "377603595102-rf7drbuvrrq2bbish7tqt6lqcv698p33.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKMnpRnsOJnGnw7VwfVXgb06uR0GbGw0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "377603595102-rf7drbuvrrq2bbish7tqt6lqcv698p33.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "377603595102-bf9dvafi77c95l8mb54rtehf0us3nuo4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.matiningmarkjohn.hapaghub"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377603595102:android:ef2b8a27569e05cb550dcf",
+        "android_client_info": {
+          "package_name": "com.mj.hapag"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "377603595102-6rhvlinan50h5bm9bvaot07qvoro7fq0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mj.hapag",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "377603595102-rf7drbuvrrq2bbish7tqt6lqcv698p33.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKMnpRnsOJnGnw7VwfVXgb06uR0GbGw0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "377603595102-rf7drbuvrrq2bbish7tqt6lqcv698p33.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "377603595102-bf9dvafi77c95l8mb54rtehf0us3nuo4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.matiningmarkjohn.hapaghub"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
